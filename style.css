@@ -62,6 +62,8 @@ p.texto1{
 
     background-color: black;
     color: yellowgreen;
+    display: inline;
+    line-height: 1cm;
    
     
    
@@ -70,7 +72,7 @@ p.texto1{
 .right{
   
     position: relative;
-    float: left;
+    float: right;
     width: 75%;
     margin: 0%;
     padding: 0%;
